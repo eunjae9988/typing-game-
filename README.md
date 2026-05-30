@@ -10,3 +10,7 @@ Techical implementation and code analysis
 - import time is used to fetch the exact time. By calculating the difference between the start and end of the session, the program measures the exact reaction time taken to complete the task.
 - import random is for utilized via "random.choice' to ensuring the subject canot predict the next word
 - time.time() is a function that captures the exact timestamp in seconds. It measures the time taken to process the word and type it out.
+
+What I learned
+- I learned how to use isdigit() to prevent errors by checking if user input is a number
+- I practiced using loops, standard libraries and recursive function to build a functional interactive program. 
